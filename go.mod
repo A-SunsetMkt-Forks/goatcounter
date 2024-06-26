@@ -17,10 +17,10 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/teamwork/reload v1.4.2
 	golang.org/x/crypto v0.23.0
-	golang.org/x/image v0.16.0
+	golang.org/x/image v0.18.0
 	golang.org/x/net v0.25.0
 	golang.org/x/sync v0.7.0
-	golang.org/x/text v0.15.0
+	golang.org/x/text v0.16.0
 	zgo.at/bgrun v0.0.0-00010101000000-000000000000
 	zgo.at/blackmail v0.0.0-20221021025740-b3fdfc32a1aa
 	zgo.at/errors v1.2.0
@@ -61,6 +61,6 @@ require (
 	github.com/rivo/uniseg v0.4.7 // indirect
 	golang.org/x/mod v0.17.0 // indirect
 	golang.org/x/sys v0.20.0 // indirect
-	golang.org/x/tools v0.21.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	zgo.at/runewidth v0.1.0 // indirect
 )
